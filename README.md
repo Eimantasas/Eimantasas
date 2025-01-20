@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eimantasas&label=Profile%20views&color=0e75b6&style=flat" alt="eimantasas" /> </p>
 
-- 🔭 I’m currently working on [a godot game named "Downgear"](https://github.com/Eimantasas/DowngearGit)
+- 🔭 I’m currently working on [a godot game named "Downgear"](https://github.com/Eimantasas/DowngearGit) and [a web based game "Who is Who" (norwegian)](https://github.com/Eimantasas/Hvem-Er-Hvem)
 
 - 🌱 I’m currently learning **Godot**
 
