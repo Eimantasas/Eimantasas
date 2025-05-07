@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eimantasas&label=Profile%20views&color=0e75b6&style=flat" alt="eimantasas" /> </p>
 
 - 🔭 I’m currently working on multiple projects:
-- Alone on [a godot game named "Downgear"](https://github.com/Eimantasas/DowngearGit)
+- Together with [Ask](https://github.com/gagetMan) on [a godot game named "Downgear"](https://github.com/Eimantasas/DowngearGit)
 - Together with [Arman Ameri](https://github.com/ArmanAmeri) on another [godot project](https://github.com/ArmanAmeri/9-Days-To-Live)
 
 - 🌱 I’m currently learning **Godot**
